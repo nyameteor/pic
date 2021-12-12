@@ -1,0 +1,8 @@
+# Project
+swap
+upload.py
+*.pyc
+
+# System
+.DS_Store
+Desktop.ini
